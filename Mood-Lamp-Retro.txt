@@ -2,7 +2,11 @@ Retrospective
 
 1. Look into using Viusal Studio Code for Arduino Sketches
 2. Can we version Sketch Files
-3. Container for our project
+3. Project Container for our project
+    1. Electrical Tape for the LED's
+    2. Drill out the moon for the Lamp, Drill out small BB8 Sensor for the photosensor
+    3. cut wires to be smaller (resistor)
+    4. drill out hole for power adapter
 
 
 Todo - Node-RED
