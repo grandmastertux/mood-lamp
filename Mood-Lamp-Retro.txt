@@ -1,0 +1,4 @@
+Retrospective
+
+1. Look into using Viusal Studio Code for Arduino Sketches
+2. Can we version Sketch Files
